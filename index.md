@@ -6,9 +6,9 @@ nav_order: 1
 ---
 
 <section class="home-intro" aria-labelledby="home-title">
-  <p class="eyebrow">Product marketing · Growth · Go-to-market</p>
-  <h1 id="home-title">Turning emerging technology into products people understand, value, and use.</h1>
-  <p class="lede">I work across product marketing and growth, bringing customer insight, positioning, and experimentation together to build stronger product experiences and launches.</p>
+  <p class="eyebrow">Product marketing · Growth marketing · Go-to-market</p>
+  <h1 id="home-title">I connect customer insight to clear positioning, stronger launches, and measurable growth.</h1>
+  <p class="lede">Across product marketing and growth marketing, I use customer insight, go-to-market strategy, and experimentation to clarify product value and strengthen customer experiences.</p>
   <a class="text-link" href="{{ '/experience/' | relative_url }}">Explore my experience <span aria-hidden="true">↗</span></a>
 </section>
 
