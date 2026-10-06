@@ -1,1 +1,2 @@
 - [Jekyll preview on Replit](jekyll-replit-preview.md) — Exclude Replit log directories to prevent Jekyll's watcher from rebuilding continuously.
+- [Git write approval](git-write-approval.md) — Ask before any remote Git write or public Pages change; do not retry protected backup-branch cleanup without fresh approval.
