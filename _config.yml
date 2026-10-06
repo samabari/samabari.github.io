@@ -1,0 +1,37 @@
+title: Sama Bari
+description: Product marketing, growth marketing, and go-to-market strategy across technology and AI.
+url: "https://samabari.github.io"
+baseurl: ""
+email: "samabari@berkeley.edu"
+theme: null
+
+markdown: kramdown
+permalink: pretty
+timezone: America/Los_Angeles
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - PLAN.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - replit.md
+  - attached_assets
+  - .local
+  - .agents
+  - .cache
+  - .config
+  - .git
+  - .replit
+  - .gitignore
+  - node_modules
+  - vendor

@@ -1,0 +1,1 @@
+- [Jekyll preview on Replit](jekyll-replit-preview.md) — Exclude Replit log directories to prevent Jekyll's watcher from rebuilding continuously.
