@@ -120,10 +120,16 @@ a:focus-visible {
   transition: color 140ms ease, background-color 140ms ease;
 }
 
-.site-nav a:hover,
-.site-nav a[aria-current="page"] {
+.site-nav a:hover {
   color: var(--ink);
   background: #e9edf2;
+}
+
+.site-nav a[aria-current="page"] {
+  color: var(--blue);
+  background: var(--tint);
+  font-weight: 600;
+  box-shadow: inset 0 -2px 0 var(--blue);
 }
 
 .site-main {
